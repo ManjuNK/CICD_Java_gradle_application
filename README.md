@@ -12,7 +12,7 @@ code is integrated with sonarqube plugin which help us in static code analysis
 
 Wiki links installation stpes for Ultra RealTime End to End CI/CD Project | Docker | Jenkins | Nexus | SonarQube | datree | Helm | K8s
 
-'''Integrating Sonarqube with Jenkins'''
+Integrating Sonarqube with Jenkins
 
 Creating Docker hosted repository in Nexus and pushing the docker image through Jenkins
 
